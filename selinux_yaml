@@ -1,0 +1,6 @@
+- name: Check SELinux compliance
+  hosts: all
+  become: true
+  tasks:
+    - name: Run SELinux audit script
+      script: /local/path/selinux_check.sh
