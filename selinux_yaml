@@ -1,4 +1,5 @@
 # this playbook has a script associated to it in the bash.sh respository
+# .github/workflows/ci.yml
 - name: Check SELinux compliance
   hosts: all
   become: true
