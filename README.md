@@ -1,4 +1,4 @@
-# ansible.yaml
+# ansible.yml
 
 ## What is Ansible?
 - Ansible is a powerful open-source automation tool used to configure, manage, and deploy software across multiple servers or devices. It’s widely used in DevOps, cloud infrastructure, and IT operations
