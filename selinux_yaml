@@ -1,3 +1,4 @@
+# this playbook has a script associated to it in the bash.sh respository
 - name: Check SELinux compliance
   hosts: all
   become: true
